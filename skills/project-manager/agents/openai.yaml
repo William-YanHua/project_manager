@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目规划与管理"
+  short_description: "围绕目标主动完善产品或功能，逐步建议下一步，管理进度与待办，并支持每日提醒"
+  default_prompt: "请使用 $project-manager 围绕我的目标主动完善产品或功能，逐步建议下一步，并管理进度与待办；每日提醒时间由我指定。"

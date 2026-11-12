@@ -1,0 +1,11 @@
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+
+# Local project records and workspace instructions
+/.project-manager.json
+/docs/project-management/
+/AGENTS.md
